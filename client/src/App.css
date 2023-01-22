@@ -1,0 +1,17 @@
+body {
+  background-image: linear-gradient(135deg, #fab2ff 10%, #1904e5 100%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: "Open Sans", sans-serif;
+  color: #333333;
+}
+
+.bar {
+  display: flex;
+  height: 40px;
+  gap: 24px;
+  justify-content: center;
+  padding: 40px 0px;
+  color: white;
+}
