@@ -18,14 +18,14 @@ After that I did some quick styling.
 
 To run the app, both the server and the client should be run locally.
 
-## 1. The server
+## 1. The server ⚙️ (Node JS, Mongoose, MongoDB, Express JS)
 
 - Run npm install to install the node modules
 - Run nodemon index.js to start the server in test mode. It is connected to a database through a key in the environment variables (hidden)
 - Wait for a success console message
 
 
-## 2. The client
+## 2. The client 💻 (React JS, Node Sass)
 
 - Run npm install
 - Run npm start
